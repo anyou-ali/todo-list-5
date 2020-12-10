@@ -71,4 +71,4 @@ function getTasks(){
     }
 }
 
-// getTasks();
+getTasks();
